@@ -1,4 +1,4 @@
-# App3 Pdf Template
+# App 3 Pdf Template
 This project generates a PDF document based on the data in a CSV file. It utilizes the fpdf library for PDF generation and pandas for reading the CSV data.
 
 ## Prerequisites
